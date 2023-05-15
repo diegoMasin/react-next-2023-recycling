@@ -8,8 +8,13 @@ Class - #01
 - ✅[React] component using props
 - ✅[React] component with events
 
-- [React] component with state
-- [React] comunication between components (direct)
-- [React] comunication between components (indirect)
+Class - #02
+
+- ✅[React] component with state
+- ✅[React] comunication between components (direct)
+- ✅[React] comunication between components (indirect)
+
+Class - #03
+
 - [React] condictional render
 - [React] list's rendering
