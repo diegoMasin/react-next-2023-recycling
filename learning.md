@@ -16,5 +16,5 @@ Class - #02
 
 Class - #03
 
-- [React] condictional render
+- ✅[React] condictional render
 - [React] list's rendering
