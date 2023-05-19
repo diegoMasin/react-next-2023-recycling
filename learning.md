@@ -18,3 +18,10 @@ Class - #03
 
 - ✅[React] condictional render
 - ✅[React] list's rendering
+
+Class - #04
+
+- ✅[React] hooks custom
+- [React] call a API https://swapi.dev/
+
+- [React] hooks... useState, useEffect e useCallback
