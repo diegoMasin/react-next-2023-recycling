@@ -24,4 +24,16 @@ Class - #04
 - ✅[React] hooks custom
 - ✅[React] call a API https://swapi.dev/
 
+Class - #05
+
 - ✅[React] hooks... useState, useEffect e useCallback
+
+Class - #06
+
+- ✅[React] review hooks and improving StarWars
+
+Maybe After:
+
+- Full App
+- Hook useContext
+- NextJs stuff
