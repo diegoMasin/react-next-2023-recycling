@@ -22,6 +22,6 @@ Class - #03
 Class - #04
 
 - ✅[React] hooks custom
-- [React] call a API https://swapi.dev/
+- ✅[React] call a API https://swapi.dev/
 
 - [React] hooks... useState, useEffect e useCallback
