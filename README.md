@@ -15,7 +15,7 @@ Several exercises with React and Next to knowledge recycling.
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/diegoMasin/react_next_2023_recycling.git
+   git clone https://github.com/diegoMasin/react_next_2023_recycling.git(https://github.com/diegoMasin/react-next-2023-recycling.git)
    ```
 
 2. Installing dependencies:
@@ -48,7 +48,7 @@ http://localhost:3000/starwars
 5. Following this course in sequence:
 
 ```
-https://www.youtube.com/watch?v=b2iWK08pCgs&ab_channel=Cod3rCursos
+https://www.youtube.com/watch?v=b2iWK08pCgs&ab_channel=Cod3rCursos(https://www.youtube.com/watch?v=b2iWK08pCgs&ab_channel=Cod3rCursos)
 ```
 
 6. Learning
