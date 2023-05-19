@@ -32,8 +32,17 @@ yarn dev
 
 4. Open in:
 
-```bash
+```
 http://localhost:3000
+http://localhost:3000/basics
+http://localhost:3000/comunication/directly
+http://localhost:3000/comunication/indirectly
+http://localhost:3000/condictional/faq
+http://localhost:3000/lists/basic
+http://localhost:3000/lists/products
+http://localhost:3000/hooks/counter
+http://localhost:3000/hooks/images
+http://localhost:3000/starwars
 ```
 
 5. Following this course in sequence:
