@@ -1,38 +1,81 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![Alt text](https://raw.githubusercontent.com/diegoMasin/landing-maximumtech/master/assets/img/new-logo-mt-01.png)
+<br><br>
 
-## Getting Started
+# Project Name
 
-First, run the development server:
+Several exercises with React and Next to knowledge recycling.
+
+## Requirements
+
+- Node.js (version 19.6.1, but it might works well with a lower version)
+- yarn (versão 1.22.19, but it might works well with a lower version)
+
+## Configuração
+
+1. Clone the repo:
+
+   ```bash
+   git clone https://github.com/diegoMasin/react_next_2023_recycling.git
+   ```
+
+2. Installing dependencies:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+yarn
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+3. Start:
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+```bash
+yarn dev
+```
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+4. Open in:
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+```bash
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+5. Following this course in sequence: https://www.youtube.com/watch?v=b2iWK08pCgs&ab_channel=Cod3rCursos
 
-## Learn More
+6. Learning
 
-To learn more about Next.js, take a look at the following resources:
+```
+Class - #01
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- ✅[Next] pages path generate routes
+- ✅[React] first component
+- ✅[React] using props.children on component
+- ✅[React] component using props
+- ✅[React] component with events
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Class - #02
 
-## Deploy on Vercel
+- ✅[React] component with state
+- ✅[React] comunication between components (direct)
+- ✅[React] comunication between components (indirect)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Class - #03
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- ✅[React] condictional render
+- ✅[React] list's rendering
+
+Class - #04
+
+- ✅[React] hooks custom
+- ✅[React] call a API https://swapi.dev/
+
+Class - #05
+
+- ✅[React] hooks... useState, useEffect e useCallback
+
+Class - #06
+
+- ✅[React] review hooks and improving StarWars
+
+Maybe After:
+
+- Full App
+- Hook useContext
+- NextJs stuff
+```
