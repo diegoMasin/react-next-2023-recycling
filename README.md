@@ -47,9 +47,7 @@ http://localhost:3000/starwars
 
 5. Following this course in sequence:
 
-```
 [https://www.youtube.com/watch?v=b2iWK08pCgs&ab_channel=Cod3rCursos](https://www.youtube.com/watch?v=b2iWK08pCgs&ab_channel=Cod3rCursos)
-```
 
 6. Learning
 
