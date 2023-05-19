@@ -10,7 +10,7 @@ Several exercises with React and Next to knowledge recycling.
 - Node.js (version 19.6.1, but it might works well with a lower version)
 - yarn (versão 1.22.19, but it might works well with a lower version)
 
-## Configuração
+## Configure
 
 1. Clone the repo:
 
@@ -36,7 +36,11 @@ yarn dev
 http://localhost:3000
 ```
 
-5. Following this course in sequence: https://www.youtube.com/watch?v=b2iWK08pCgs&ab_channel=Cod3rCursos
+5. Following this course in sequence:
+
+```
+https://www.youtube.com/watch?v=b2iWK08pCgs&ab_channel=Cod3rCursos
+```
 
 6. Learning
 
