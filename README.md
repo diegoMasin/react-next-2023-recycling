@@ -1,7 +1,7 @@
 ![Alt text](https://raw.githubusercontent.com/diegoMasin/landing-maximumtech/master/assets/img/new-logo-mt-01.png)
 <br><br>
 
-# Project Name
+# Trainning React 2023
 
 Several exercises with React and Next to knowledge recycling.
 
